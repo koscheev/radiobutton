@@ -1,0 +1,29 @@
+
+.checklist {
+    width: 60vw;
+    height: 50vh;
+  }
+  
+  .checklist h1 {
+    text-align: center;
+  }
+  
+  .task {
+    padding: 1rem;
+  }
+  
+  .task input {
+    padding-left: 1rem;
+  }
+  
+  .loadbar {
+    width: 100%;
+    height: 10px;
+    background-color: silver;
+  }
+  
+  .progress {
+    width: 50%;
+    height: 100%;
+    background-color: red;
+  }
