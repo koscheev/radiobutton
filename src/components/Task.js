@@ -21,6 +21,6 @@ const Task = ({ text, onClickTask, id, name }) => {
 
 Task.propTypes = {
     text: PropTypes.string,
-    onPress: PropTypes.func
+    onChange: PropTypes.func
 }
 export default Task;
